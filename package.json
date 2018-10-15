@@ -11,5 +11,8 @@
     "start": "node ./routeAndHttp/app.js"
   },
   "author": "Crown",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
 }
